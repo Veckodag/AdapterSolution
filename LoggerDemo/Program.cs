@@ -23,7 +23,6 @@ namespace LoggerDemo
         private static void FavoriteCake(ILogger logger, string p)
         {
             logger.Log(p);
-            logger.Log(p);
         }
     }
 }
